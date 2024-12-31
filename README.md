@@ -126,15 +126,6 @@ orders_df.to_csv("ecommerce_data.csv", index=False)
 
 **[Space for Image: Profit by Product Category Visualization]**
 
-### Visualization 4: Sales by Region
-#### Steps:
-1. Add a **Map** visualization.
-2. Drag **Location** to the Location field.
-3. Drag **Total Sales** to the Size field.
-4. Customize the map style for better clarity.
-
-**[Space for Image: Sales by Region Visualization]**
-
 ---
 
 ## Advanced DAX Expressions
