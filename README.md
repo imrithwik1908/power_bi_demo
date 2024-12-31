@@ -96,7 +96,8 @@ This project demonstrates the creation of a professional Power BI dashboard for 
 Total Sales = SUM(Orders[Sales])
 ```
 
-**[Space for Image: Sales Trend Analysis Visualization]**
+![image](https://github.com/user-attachments/assets/42d4d89d-5a51-4d09-9512-f601202e873a)
+
 
 ### Visualization 2: Profit by Product Category
 #### Steps:
@@ -110,7 +111,8 @@ Total Sales = SUM(Orders[Sales])
 Total Profit = SUM(Orders[Profit])
 ```
 
-**[Space for Image: Profit by Product Category Visualization]**
+![image](https://github.com/user-attachments/assets/2fafbd33-9bd7-4392-9755-0dd4ab66f86b)
+
 
 ### Visualization 3: Top 10 Customers by Sales
 #### Steps:
@@ -125,7 +127,8 @@ Total Profit = SUM(Orders[Profit])
    ```
 4. Apply the measure to the visualization.
 
-**[Space for Image: Top 10 Customers Visualization]**
+![image](https://github.com/user-attachments/assets/522d3adb-1754-4b82-94d2-9e483dade21e)
+
 
 ### Visualization 4: Average Discount by Product
 #### Steps:
@@ -138,7 +141,7 @@ Total Profit = SUM(Orders[Profit])
 Average Discount = AVERAGE(Orders[Discount])
 ```
 
-**[Space for Image: Average Discount by Product Visualization]**
+![image](https://github.com/user-attachments/assets/40fe6f52-7c41-4a8f-9381-f8c0870c7fd4)
 
 ### Visualization 5: Delivery Time Analysis
 #### Steps:
@@ -155,7 +158,8 @@ Average Discount = AVERAGE(Orders[Discount])
 Order Count = COUNT(Orders[Order ID])
 ```
 
-**[Space for Image: Delivery Time Analysis Visualization]**
+![image](https://github.com/user-attachments/assets/fa95eddd-585f-41fe-a43a-f60c5a495869)
+
 
 ---
 
