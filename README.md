@@ -126,21 +126,6 @@ orders_df.to_csv("ecommerce_data.csv", index=False)
 
 **[Space for Image: Profit by Product Category Visualization]**
 
-### Visualization 3: Top 10 Customers by Sales
-#### Steps:
-1. Add a **Table** to the canvas.
-2. Drag **Customer ID** and **Total Sales** to the table.
-3. Use a DAX measure to filter the top 10 customers by sales:
-   ```dax
-   Top 10 Customers = 
-   TOPN(10, 
-        SUMMARIZE(Orders, Orders[Customer ID], "Customer Sales", SUM(Orders[Sales])), 
-        [Customer Sales], DESC)
-   ```
-4. Apply the measure to the visualization.
-
-**[Space for Image: Top 10 Customers Visualization]**
-
 ### Visualization 4: Sales by Region
 #### Steps:
 1. Add a **Map** visualization.
